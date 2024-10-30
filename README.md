@@ -20,7 +20,7 @@ Olá! Este é um repositório que referencia outros repositórios usados na form
 
 A entrega está feita em um formulário logo abaixo.
 
-* Serão aceitas apenas submissões até o dia 24/09 às 23:59
+* Serão aceitas apenas submissões até o dia 24/11 às 23:59
 * O email inserido no formulário **DEVE** ser o mesmo cadastrado na plataforma NearX
 *  Você deve construir um dapp com tanto front e backend
 * Devem haver contratos inteligentes deployados em sua rede de escolha (testnets são aceitas)
@@ -32,4 +32,4 @@ A entrega está feita em um formulário logo abaixo.
 3. **Identidade**
 
 
-# Para o formulário de entrega, clique [>Aqui<](https://forms.gle/yzXsW4MhMUJavXt9A)
+# Para o formulário de entrega, clique [>Aqui<](https://forms.gle/N1oxPR9Tc3VZDJc87)
