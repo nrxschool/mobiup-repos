@@ -22,7 +22,9 @@ A entrega está feita em um formulário logo abaixo.
 
 * Serão aceitas apenas submissões até o dia 24/11 às 23:59
 * O email inserido no formulário **DEVE** ser o mesmo cadastrado na plataforma NearX
-*  Você deve construir um dapp com tanto front e backend
+* Somente UMA pessoa por entrega/projeto
+* Não é necessário se ater às libs especificamente mostradas no curso
+* Você deve construir um dapp com tanto front e backend
 * Devem haver contratos inteligentes deployados em sua rede de escolha (testnets são aceitas)
 * Seu repositório deve estar **público** no Github, com tanto o back e o front
 * Você deverá especificar a rede que você usou e o(s) endereço(s) do(s) contrato(s) que você fez deploy para seu dapp
